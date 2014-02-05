@@ -1,3 +1,6 @@
+//Created by: Jordan Snyder
+//Solution for Problem S2 CCC 2010
+
 #include<iostream>
 #include<map>
 #include<string>

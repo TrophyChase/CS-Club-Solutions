@@ -1,3 +1,6 @@
+//Created by: Jordan Snyder
+//Solution for Problem J3 CCC 2007
+
 #include<iostream>
 #include<map>
 using namespace std;
@@ -30,7 +33,7 @@ int main()
 
     //if the offer is bigger than the average value, take the deal
     if(offer>total_value/(10-num_briefcases_eliminated))
-        cout<<"deal";
+        cout<<"deal" << endl;
     else
-        cout <<"no deal";
+        cout <<"no deal" << endl;
 }

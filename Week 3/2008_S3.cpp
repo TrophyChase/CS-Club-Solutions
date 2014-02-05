@@ -1,5 +1,5 @@
-//Jordan Snyder
-//Jan 23, 2014
+//Created by: Jordan Snyder
+//Solution for Problem S3 CCC 2008
 
 #include<iostream>
 #include<sstream>
